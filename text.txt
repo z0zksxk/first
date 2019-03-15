@@ -1,4 +1,1 @@
-1.깃허브가입
-2.깃허브 repository
-3
-git init 깃을 생성
+아무거나
